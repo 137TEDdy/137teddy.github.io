@@ -11,19 +11,20 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="关于听书黑塞的《悉达多》感悟"><a href="#关于听书黑塞的《悉达多》感悟" class="headerlink" title="关于听书黑塞的《悉达多》感悟"></a>关于听书黑塞的《悉达多》感悟</h3><p>人分为理智爱思考的、和愿意随波逐流的两种，两种没有好坏之分，只要让自己快乐或幸福就好。我觉得，自己像是第一种，总是杞人忧天，思考很多事情，规划未来，也想着冲破“思维的墙”，拓展舒适区，去另一片新天地 </p><p>两种人生，其实是两种不同的路径。对于后者，可以像书  里说的那样，跟随佛教徒去修行造化来压制欲望。因为它们不会去思考更多，也就不会怀疑当下这一切的目的与意义，也就能达到很好的效果。然而对于像“悉达多”这样的爱思考的人，已经思考出了这样的修行也不过是压抑自己的欲望，而不是从自我的根源上解决问题。说白了，大众的方法可能就不适合你自己。</p><p>于是悉达多抛下知识与态度，放纵自己，跟随天性，美色、赌博等，完完全全地释放自己的人类欲望…</p><p>这里有点像“王维”。只有真正地入世去体验，才能更好地出世。说实话，如果你连美色都真正体验过，怎么谈心淡薄如云？大师之所以为大师，我认为不仅仅是他们智慧多于常人，其经历也必然是丰富的。</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/06/21/hello-world/"/>
-      <url>/2023/06/21/hello-world/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      <categories>
+          
+          <category> 读书感想 </category>
+          
+      </categories>
       
       
+        <tags>
+            
+            <tag> 悉达多 </tag>
+            
+            <tag> 黑塞 </tag>
+            
+        </tags>
       
     </entry>
     
